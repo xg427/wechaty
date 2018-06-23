@@ -150,7 +150,7 @@
     "@types/xml2json": "^0.10.0",
     "apiai": "^4.0.0",
     "babel-cli": "^6.26.0",
-    "babel-eslint": "^8.0.0",
+    "babel-eslint": "^8.2.5",
     "babel-preset-env": "^1.6.0",
     "blessed": "^0.1.81",
     "blessed-contrib": "^4.8.5",
